@@ -21,3 +21,5 @@ https://www.virustotal.com/gui/file/34d2ad3a0c5d603df03ddca8cdaff47545ab427aa9c3
 * https://github.com/trickster0/OffensiveRust (Motivated by this repository)
 * https://github.com/byt3bl33d3r/OffensiveNim
 * https://twitter.com/_RastaMouse and https://twitter.com/Jean_Maes_1994
+* https://docs.rs/winapi/0.3.9/winapi/
+* https://www.rust-lang.org/learn
