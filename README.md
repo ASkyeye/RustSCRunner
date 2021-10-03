@@ -6,12 +6,12 @@ Surprisingly this is my first ever Rust project that I spent my entire Sunday on
 
 ## 0 Detections on Virus Total (Will change after making public)
 
-![](Detections.png)
+![Detections](https://github.com/memN0ps/RustSCRunner/blob/main/Detections.PNG)
 
 https://www.virustotal.com/gui/file/34d2ad3a0c5d603df03ddca8cdaff47545ab427aa9c32dd60e15764b3615abab?nocache=1
 
 
-![](PoC.png)
+![PoC](https://github.com/memN0ps/RustSCRunner/blob/main/PoC.PNG)
 
 
 ## References and Credits
