@@ -2,7 +2,9 @@
 
 Shellcode Runner/Injector in Rust using NTDLL functions directly with the ntapi Library.
 
-Surprisingly this is my first ever Rust project that I spent my entire Sunday on, which I thought I had wasted and turns out to be a success. It was harder than I thought because I'm not used to Rust Syntax or the language. There appears to be a lack of resources IMHO for these shellcode runners and recently I saw trickster0 post something on Twitter that inspired me to checkout something other than my favourites languages C++/C#. I've mostly been using DInvoke and after customizing, it got a 0 detection rate.
+Surprisingly this is my first ever Rust project that I spent my entire Sunday on, which I thought I had wasted but it turned out to be a success. Coding this in Rust was harder than I thought because I'm not used to Rust Syntax or the language and IMHO there appears to be a lack of resources for these shellcode runners. Recently I saw @trickster012 post https://github.com/trickster0/OffensiveRust on Twitter that inspired me to work on this other than my favourites languages C/C++/C#. I usually use a private customised version of DInvoke made by @Jean_Maes_1994, which uses SYSCALLs which also has a 0 detection rate.
+
+I hope that this project inspires more people to make some cool things in Rust or even GO to explore the red team evasion techniques.
 
 
 ## XOR Encoded Shellcode
